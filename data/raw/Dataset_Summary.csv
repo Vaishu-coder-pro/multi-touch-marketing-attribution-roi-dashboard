@@ -1,0 +1,10 @@
+Metric,Value
+Rows,200000
+Columns,16
+Numerical Features,6
+Categorical Features,10
+Missing Values,0
+Duplicate Rows,0
+Campaign Types,5
+Marketing Channels,6
+Locations,5
