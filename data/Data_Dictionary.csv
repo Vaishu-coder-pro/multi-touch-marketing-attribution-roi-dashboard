@@ -1,0 +1,17 @@
+Column Name,Data Type,Missing Values,Missing %,Unique Values
+Campaign_ID,int64,0,0.0,200000
+Company,object,0,0.0,5
+Campaign_Type,object,0,0.0,5
+Target_Audience,object,0,0.0,5
+Duration,object,0,0.0,4
+Channel_Used,object,0,0.0,6
+Conversion_Rate,float64,0,0.0,15
+Acquisition_Cost,object,0,0.0,15001
+ROI,float64,0,0.0,601
+Location,object,0,0.0,5
+Language,object,0,0.0,5
+Clicks,int64,0,0.0,901
+Impressions,int64,0,0.0,9001
+Engagement_Score,int64,0,0.0,10
+Customer_Segment,object,0,0.0,5
+Date,object,0,0.0,365
